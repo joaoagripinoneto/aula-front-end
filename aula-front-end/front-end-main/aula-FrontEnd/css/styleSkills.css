@@ -1,0 +1,37 @@
+/* styles.css */
+.soft {
+    font-size: 24px;
+    font-family: Arial, sans-serif;
+    color: #ff9900;
+    text-align: center;
+    padding: 20px;
+    background-color: #333;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
+}
+
+.hard {
+    font-size: 24px;
+    font-family: Arial, sans-serif;
+    color: #ff9900;
+    text-align: center;
+    padding: 20px;
+    background-color: #333;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
+}
+
+.planoDeFundo {
+    /* styles.css */
+.texto-estilizado {
+    font-size: 24px;
+    font-family: Arial, sans-serif;
+    color: #e9cea695;
+    text-align: center;
+    padding: 20px;
+    background-color: #e9cea695; /* Alteração da cor de fundo */
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
+}
+
+}
